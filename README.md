@@ -12,12 +12,12 @@ Pequena API com Spring.
       "senha": "123456"
     }
     <br><br>
-    
     <b>POST: </b> localhost:8080/minhastarefas/categoria<br>
     <b>JSON</b>
-    {
-      "nome": "teste 001"
-    }
+    <p>
+      {
+        "nome": "teste 001"
+      }
     <br>
     <br>
     <b>POST:</b> localhost:8080/minhastarefas/tarefa<br>
